@@ -1,0 +1,1 @@
+﻿Nhóm tiến hành thiết kế chương trình xử lý số nguyên lớn BigInt trên 2 hình thức là CMD và giao diện. Có 2 folder, mỗi folder là source code của một hình thức làm việc.
